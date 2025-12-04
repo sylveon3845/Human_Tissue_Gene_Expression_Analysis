@@ -1,5 +1,3 @@
-# Human_Tissue_Gene_Expression_Analysis
-
 # Human Tissue Gene Expression Analysis 人類組織基因表達譜分析 (BioGPS GNF1H)
 
 ## 🎯 專案概述 (Project Overview)
