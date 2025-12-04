@@ -17,7 +17,7 @@
 - **INS (203002_at):** 胰島素基因，表達量高度特異性地集中在胰腺組織。
 - **MYH11/肌動蛋白相關 (201886_at):** 在平滑肌組織中表達較高。
 
-![條形圖結果範例 (假設你已儲存為 bar_plots.png)](results/bar_plots.png)
+![條形圖結果範例](bar_plots.png)
 
 ---
 
@@ -30,7 +30,7 @@
 * **神經組織聚類:** 所有大腦相關區域（如小腦、杏仁核、下丘腦）在 PC1/PC2 空間中形成一個緊密的群組。
 * **血液細胞分離:** 淋巴細胞、單核細胞等血液相關細胞被清晰地分離出來。
 
-![PCA 散點圖結果範例 (假設你已儲存為 pca_scatter.png)](results/pca_scatter.png)
+![PCA 散點圖結果範例](pca_scatter.png)
 
 ## ⚙️ 運行環境與要求 (Setup and Requirements)
 
