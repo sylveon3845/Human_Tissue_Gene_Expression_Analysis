@@ -1,6 +1,6 @@
 # Human Tissue Gene Expression Analysis 人類組織基因表達譜分析 (BioGPS GNF1H)
 
-## 🎯 Project 01 專案概述 (Project Overview)
+## 🎯 Project 01: 專案概述 (Project Overview)
 
 本專案利用 Python 進行高維基因表達數據的探索性分析 (EDA) 和機器學習降維，以識別人類組織在基因層面的內在相似性和功能特徵。
 
